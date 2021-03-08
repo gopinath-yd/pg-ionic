@@ -1,7 +1,8 @@
 {
   "name": "pg-ionic",
-  "type": "custom",
   "integrations": {
     "cordova": {}
-  }
+  },
+  "type": "custom",
+  "id": "096aa157"
 }

@@ -1,0 +1,23 @@
+{
+  "name": "pg-ionic",
+  "version": "1.0.0",
+  "description": "my cordova app",
+  "main": "www/js/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gopinath-yd/pg-ionic.git"
+  },
+  "keywords": [
+    "pg",
+    "ionic"
+  ],
+  "author": "gopinath m",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gopinath-yd/pg-ionic/issues"
+  },
+  "homepage": "https://github.com/gopinath-yd/pg-ionic#readme"
+}
